@@ -1,0 +1,38 @@
+body{
+    background: #95a5a6;
+}
+#box{
+    margin-top: 50px;
+}
+.box img {
+    height: 500px;
+    width: 300px;
+}
+.foodList{
+    border: 2px solid  green;
+width: 30%;
+display: inline-block;
+text-align: center;
+margin: 30px 10px;
+ 
+
+}
+.foodImg{
+    
+    padding: 5px;
+
+}
+.button-pro{
+    padding: 10px 20px;
+    background:  #e67e22;
+    color:black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border:2px solid #fff;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#detailsFood{
+    display: block;
+}
